@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+,+I+am+Maliha+Y+👋)](https://git.io/typing-svg)	
-![](https://visitor-badge.laobi.icu/badge?page_id=MalihaY/MalihaY)
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=MalihaY/MalihaY)-->
 <!-- [![Github](https://img.shields.io/github/followers/MalihaY?label=Follow&style=social)](https://github.com/MalihaY) -->
 
 - 🎓 Studying Electrical and Computer Engineering 
